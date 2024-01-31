@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247067605934989538/caef38cb654c494e97b4da6e15b7f1d5/artifacts
+end_time: 1706697965349
+entry_point_name: ''
+experiment_id: '247067605934989538'
+lifecycle_stage: active
+run_id: caef38cb654c494e97b4da6e15b7f1d5
+run_name: nosy-frog-922
+run_uuid: caef38cb654c494e97b4da6e15b7f1d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706697952669
+status: 3
+tags: []
+user_id: Akash Heliware

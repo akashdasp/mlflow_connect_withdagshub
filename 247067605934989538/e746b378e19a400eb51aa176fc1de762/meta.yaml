@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247067605934989538/e746b378e19a400eb51aa176fc1de762/artifacts
+end_time: 1706697952510
+entry_point_name: ''
+experiment_id: '247067605934989538'
+lifecycle_stage: active
+run_id: e746b378e19a400eb51aa176fc1de762
+run_name: abundant-asp-934
+run_uuid: e746b378e19a400eb51aa176fc1de762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706697938838
+status: 3
+tags: []
+user_id: Akash Heliware

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247067605934989538/d4d2f1ea66824b1899f92a303f13efd6/artifacts
+end_time: 1706697985438
+entry_point_name: ''
+experiment_id: '247067605934989538'
+lifecycle_stage: active
+run_id: d4d2f1ea66824b1899f92a303f13efd6
+run_name: serious-wolf-684
+run_uuid: d4d2f1ea66824b1899f92a303f13efd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706697975138
+status: 3
+tags: []
+user_id: Akash Heliware

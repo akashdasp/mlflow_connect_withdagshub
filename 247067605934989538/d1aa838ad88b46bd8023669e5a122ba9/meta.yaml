@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247067605934989538/d1aa838ad88b46bd8023669e5a122ba9/artifacts
+end_time: 1706697923226
+entry_point_name: ''
+experiment_id: '247067605934989538'
+lifecycle_stage: active
+run_id: d1aa838ad88b46bd8023669e5a122ba9
+run_name: debonair-jay-860
+run_uuid: d1aa838ad88b46bd8023669e5a122ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706697907688
+status: 3
+tags: []
+user_id: Akash Heliware

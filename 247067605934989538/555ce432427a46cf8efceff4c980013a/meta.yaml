@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247067605934989538/555ce432427a46cf8efceff4c980013a/artifacts
+end_time: 1706697975062
+entry_point_name: ''
+experiment_id: '247067605934989538'
+lifecycle_stage: active
+run_id: 555ce432427a46cf8efceff4c980013a
+run_name: serious-kite-519
+run_uuid: 555ce432427a46cf8efceff4c980013a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706697965413
+status: 3
+tags: []
+user_id: Akash Heliware

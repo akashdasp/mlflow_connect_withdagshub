@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247067605934989538/8bc17b2dd4e04a2eb710df71aceb13dd/artifacts
+end_time: 1706697996636
+entry_point_name: ''
+experiment_id: '247067605934989538'
+lifecycle_stage: active
+run_id: 8bc17b2dd4e04a2eb710df71aceb13dd
+run_name: enchanting-mink-788
+run_uuid: 8bc17b2dd4e04a2eb710df71aceb13dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706697985503
+status: 3
+tags: []
+user_id: Akash Heliware

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/210411617372570938/d82e2fda64b14e1b90846a9621adc710/artifacts
+end_time: 1706696592758
+entry_point_name: ''
+experiment_id: '210411617372570938'
+lifecycle_stage: active
+run_id: d82e2fda64b14e1b90846a9621adc710
+run_name: blushing-doe-23
+run_uuid: d82e2fda64b14e1b90846a9621adc710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706696584368
+status: 3
+tags: []
+user_id: Akash Heliware
